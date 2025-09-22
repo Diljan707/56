@@ -1,9 +1,4 @@
-#EXTM3U
-#EXTINF:-1,tvg-name="5AABTV",5AABTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hdstreamz.app/
-#EXTVLCOPT:http-header=Host: 158.69.124.9:1935
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w1202417558.m3u8
+
 #EXTM3U
 #EXTINF:-1,tvg-name="5AABTV",5AABTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36
