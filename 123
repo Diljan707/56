@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="22" tvg-name="Sony Sports Ten 4 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sony Sports",Sony Sports Ten 4 HD
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#KODIPROP:inputstream.adaptive.http-referrer=https://www.sonyliv.com/
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1761805802~acl=/*~id=25695886919354782304449193825336~hmac=61ce30c752b5105e0e7d073e5997218578f1f26becd340c587c884796a7518fd
