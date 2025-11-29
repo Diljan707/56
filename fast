@@ -1,0 +1,19 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:1
+#EXT-X-HOLD-BACK:1
+#EXT-X-PART-INF:PART-TARGET=0.333
+#EXT-X-SERVER-CONTROL:CAN-BLOCK-RELOAD=YES, CAN-SKIP-UNTIL=12.0
+
+#EXTINF:-1 tvg-id="SonySAB" tvg-name="Sony SAB" tvg-logo="https://i.imgur.com/63ExqT0.png" group-title="Entertainment",Sony SAB
+https://bypass.diljankhehra.workers.dev/?url=https://webhop.live:443/live/Anagha/Anagha/145.ts
+
+#EXTINF:-1 tvg-id="SonyPal" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/y5zJNRW.png" group-title="Entertainment",Sony Pal
+https://bypass.diljankhehra.workers.dev/?url=https://webhop.live:443/live/Anagha/Anagha/6627.ts
+
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="https://i.imgur.com/O0qVl2f.png" group-title="Kids",Nick
+https://bypass.diljankhehra.workers.dev/?url=https://webhop.live/live/Anagha/Anagha/205.ts
+
+#EXTINF:-1 tvg-id="DisneyChannelHD" tvg-name="Disney Channel HD" tvg-logo="https://i.imgur.com/4Wn9g5N.png" group-title="Kids",Disney Channel HD
+https://bypass.diljankhehra.workers.dev/?url=https://webhop.live/live/Anagha/Anagha/19741.ts
