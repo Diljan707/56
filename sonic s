@@ -4,3 +4,6 @@ https://collector-game-handbags-switches.trycloudflare.com/stream.m3u8
 
 #EXTINF:-1 tvg-id="sonic.in" tvg-name="SONIC 2" tvg-logo="https://i.postimg.cc/QMmXg8P2/Dishtv.png" group-title="Kids", SONIC 2 HD
 https://stamp-peers-findlaw-environment.trycloudflare.com/stream.m3u8
+
+#EXTINF:-1 tvg-id="sonic3" tvg-name="Sonic 3 Live" group-title="Kids",Sonic 3 Live
+https://vienna-talented-email-debut.trycloudflare.com/stream.m3u8
