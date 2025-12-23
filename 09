@@ -2,4 +2,7 @@
 #EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/512px-Sony_Sab_new.png" group-title="Entertainment" http-referrer="https://nxtlive.net/",Sony SAB (1080p)
 #EXTVLCOPT:http-referrer=https://nxtlive.net/
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://nxtlive.net/
-https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897678986
+https://nxtlive.net/sliv/stream.php?e=.m3u8&id=089767898
+
+#EXTINF:-1,Sonic Live
+https://discussed-empty-portsmouth-fair.trycloudflare.com/stream.m3u8
