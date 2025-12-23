@@ -7,3 +7,6 @@ https://stamp-peers-findlaw-environment.trycloudflare.com/stream.m3u8
 
 #EXTINF:-1 tvg-id="sonic3" tvg-name="Sonic 3 Live" group-title="Kids",Sonic 3 Live
 https://vienna-talented-email-debut.trycloudflare.com/stream.m3u8
+
+#EXTINF:-1 tvg-id="Sonic" tvg-name="Sonic" group-title="Kids",Sonic (LIVE)
+https://device-artificial-partition-fall.trycloudflare.com/live.ts
